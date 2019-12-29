@@ -6,6 +6,10 @@ Charity blockchain offers two services for someone who wants to donate for a reg
 
       - A donor can donate the desired amount to the orphanage.
       - A donor can sponsor a child's education/meals per year.
+ 
+ Clone this repo:
+ 
+    git@github.com:yasaswinimusunuri/charity-Blockchain.git
       
 Install dependencies:
 
