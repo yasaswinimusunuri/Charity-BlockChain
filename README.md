@@ -1,6 +1,6 @@
 # charity-Blockchain
 
-A simple blockchain project that makes charity donations more transparent and secure. 
+A simple Ethereum blockchain project that makes charity donations more transparent and secure. 
 
 Charity blockchain offers two services for someone who wants to donate for a registered orphanage,
 
